@@ -5,3 +5,5 @@
  * Date: 26.01.17
  * Time: 12:29
  */
+$name = 'Salavat';
+echo $name;
